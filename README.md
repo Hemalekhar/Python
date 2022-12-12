@@ -1,2 +1,2 @@
 # Python
-My Python codes
+My Python codes for data analysis
